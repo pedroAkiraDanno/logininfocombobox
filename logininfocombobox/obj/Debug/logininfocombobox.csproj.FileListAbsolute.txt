@@ -1,0 +1,10 @@
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\obj\Debug\logininfocombobox.csproj.AssemblyReference.cache
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\obj\Debug\logininfocombobox.Form1.resources
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\obj\Debug\logininfocombobox.Properties.Resources.resources
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\obj\Debug\logininfocombobox.csproj.GenerateResource.cache
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\obj\Debug\logininfocombobox.csproj.CoreCompileInputs.cache
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\bin\Debug\logininfocombobox.exe.config
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\bin\Debug\logininfocombobox.exe
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\bin\Debug\logininfocombobox.pdb
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\obj\Debug\logininfocombobox.exe
+C:\Users\pedro.akira\source\repos\logininfocombobox\logininfocombobox\obj\Debug\logininfocombobox.pdb
